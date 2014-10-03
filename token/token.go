@@ -317,7 +317,7 @@ var tokens = [...]string{
 	FUNC:   "so",
 	GO:     "go",
 	GOTO:   "goto",
-	IF:     "if",
+	IF:     "maybe",
 	DO:     "do",
 	IMPORT: "omg",
 
